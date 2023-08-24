@@ -1,0 +1,1 @@
+python3 percent_india.py

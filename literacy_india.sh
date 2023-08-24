@@ -1,0 +1,1 @@
+python3 literacy_india.py
